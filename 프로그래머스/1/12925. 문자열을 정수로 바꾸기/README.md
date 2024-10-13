@@ -1,10 +1,10 @@
 # [level 1] 문자열을 정수로 바꾸기 - 12925 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12925) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12925?language=java) 
 
 ### 성능 요약
 
-메모리: 67.4 MB, 시간: 0.04 ms
+메모리: 70.8 MB, 시간: 0.04 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 05월 09일 09:36:02
+2024년 10월 13일 17:42:24
 
 ### 문제 설명
 
